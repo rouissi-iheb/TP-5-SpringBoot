@@ -1,6 +1,6 @@
 # TP-5-SpringBoot
 Apps Activation keys manager <br>
-TP 1 / 2 / 3 / 4 SpringBoot <br>
+Rest API SpringBoot <br>
 <h3>live test : http://rouissi-iheb-dsi31-springboot.tk</h3>
 
 <h3>screenshots :</h3> 
